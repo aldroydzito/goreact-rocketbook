@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Facebook';
+  src: url('./fonts/klavika-bold.otf') format('opentype');
+}
+
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
